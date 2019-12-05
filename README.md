@@ -47,3 +47,13 @@ cache_misses:494061
 cache_miss_rate:0.33  
 The maximum values your simulator needs to support for each of the parameters (s,b,a) is 64K  
 bytes for the cache size, 256 bytes for the block size, and the full associativity.  
+
+## 3. 결과
+![1](https://user-images.githubusercontent.com/58457978/70210572-5baf0d00-1776-11ea-8e28-b82a1c8a881c.png)
+
+![2](https://user-images.githubusercontent.com/58457978/70210573-5baf0d00-1776-11ea-97fc-8716d62182ee.png)
+
+![3](https://user-images.githubusercontent.com/58457978/70210570-5b167680-1776-11ea-974a-22d5213bc576.png)
+
+![4](https://user-images.githubusercontent.com/58457978/70210571-5baf0d00-1776-11ea-836e-e229eca1c957.png)
+
