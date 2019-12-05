@@ -3,7 +3,6 @@
 ## 1. 설계목적
 Data cache simulator를 구현해 봄으로써 N-way associative cache의 동작원리를 이해하도록 함.
 
-----
 ## 2. 설계방법
 본 설계과제에서 cache 사이즈를 변화(2의 승수에서 64KB까지) 시킬 수 있는 N-way associative cache  
 를 설계한다. Cache set에서 replace되는 way/block을 선택하기 위해 LRU (Least Recently Used) 방식  
